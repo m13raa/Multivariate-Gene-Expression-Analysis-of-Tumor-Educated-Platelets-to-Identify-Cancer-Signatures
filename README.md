@@ -2,7 +2,7 @@ This project uses RNA sequencing data to explore whether gene expression pattern
 can distinguish cancer from healthy samples and potentially differentiate between cancer types.
 
 Tumor-educated platelets are platelets that have interacted with tumor cells and absorbed tumor-derived RNA,
-acting as biomarkers for cancer detection. It serves as a useful took that allows for non-invasive testing
+acting as biomarkers for cancer detection. It serves as a useful tool that allows for non-invasive testing
 through blood samples instead of traditional biopsies. The key idea behind this project is that gene expression
 profiles will reflect underlying disease states.
 
